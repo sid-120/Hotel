@@ -1,0 +1,96 @@
+* {
+  padding: 0px;
+  margin: 0%;
+  background-color: #071a28;
+  color: aliceblue;
+  font-family: "Courier New", Courier, monospace;
+  font-size: large;
+  box-sizing: border-box;
+}
+
+.hotel_header {
+  background-image: url(https://cdn.codechef.com/download/Contest+images/ANTEST/landing+page.jpg);
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.hotel_heading {
+  background-color: transparent;
+  color: white;
+  text-align: center;
+  font-family: Times;
+  font-size: 80px;
+  padding: 10px;
+  padding-bottom: 150px;
+}
+
+.hotel_quote {
+  text-align: right;
+  font-size: 60px;
+  font-family: cursive;
+  color: white;
+  background-color: transparent;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 20px;
+}
+
+.hotel_heading_para {
+  text-align: right;
+  padding-top: 30px;
+  margin-left: 30%;
+  padding-right: 20px;
+  background-color: transparent;
+  color: white;
+}
+
+.main_heading {
+  padding-block-start: 100px;
+  padding-block-end: 30px;
+  text-align: center;
+}
+
+.main_table {
+  border-collapse: collapse;
+  margin: auto;
+  margin-block-end: 60px;
+  inline-size: 70%;
+}
+
+th {
+  background-color: orangered;
+}
+th,
+td {
+  inline-size: 150px;
+  text-align: left;
+  padding: 10px;
+  border: 1px solid orangered;
+}
+.imgtype {
+  text-align: center;
+}
+ul {
+  padding-inline-start: 30px;
+  background-color: transparent;
+}
+
+.booknow {
+  text-align: center;
+  text-decoration: underline;
+  padding-block-start: 30px;
+  padding-block-end: 50px;
+}
+footer {
+  display: block;
+  unicode-bidi: isolate;
+  text-align: center;
+  background-color: #4f2d18;
+  padding-block-start: 20px;
+  padding-block-end: 20px;
+}
+#footpara {
+  color: white;
+  background-color: transparent;
+  padding-right: 50px;
+}
